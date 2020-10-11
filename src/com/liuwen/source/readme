@@ -1,0 +1,2 @@
+想要程序运行使用这里的源码，而不是自带jdk，
+需要设置 project Structure → SDKs → SourcePath 删除原始jdk源码路径，并设置为当前路径
